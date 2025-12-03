@@ -1,0 +1,146 @@
+body {
+	background-color: FFD95A;
+	font-family: Times, Georgia, serif;
+	color: 4C3D3D;
+}
+
+h1 {
+	background-color: FFF7D4;
+	text-align: center;
+	height: 40px;
+	width: 1700px;
+	border: 6px dotted black;
+	margin-top: 10px;
+	margin-right: auto;
+	margin-bottom: 10px;
+	margin-left: auto;
+	padding: 30px;
+}
+
+.one { 
+	background-color: FFF7D4;
+	text-align: center;
+	font-size: 125%;
+	height: 30px;
+	width: 500px;
+	margin-top: 10px;
+	margin-right: auto;
+	margin-bottom: 10px;
+	margin-left: auto;
+	border: 2px solid black;
+	padding: 6px;
+	color: 4C3D3D;
+}
+
+.centering { 
+	text-align: center;
+}
+
+.sized {
+	width: 380px;
+	height: 380px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.sizedtwo {
+	width: 225px;
+	height: 225px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.three li {
+	list-style: none;
+	display: inline-block;
+	margin: 10px;
+	text-align: center;
+	width: 245px;
+}
+
+a:link {
+	color: black;
+	text-decoration: none;
+}
+
+a:visited {
+	color: slategray;
+}
+
+a:hover {
+	color: C07F00;
+	text-decoration: underline overline;
+}
+
+.two {
+	text-align: center;
+	color: 4C3D3D;
+}
+
+p { 
+	text-align: center;
+	color: 4C3D3D;
+}
+
+.four li {
+	margin-top: 20px;
+	margin-right: auto;
+	margin-bottom: 20px;
+	margin-left: 750px;
+	width: 375px;
+	height: 25px; 
+	text-align: center;
+	padding: 10px;
+}
+
+h2 {
+	background-color: 4C3D3D;
+	text-align: center;
+	height: 35px;
+	width: 500px;
+	border: 6px dotted lightyellow;
+	margin-top: 10px;
+	margin-right: auto;
+	margin-bottom: 10px;
+	margin-left: auto;
+	padding: 30px;
+	color: FFF7D4;
+}
+
+h3 {
+	text-align: center;
+}
+
+.five li {
+	margin-top: 20px;
+	margin-right: auto;
+	margin-bottom: 20px;
+	margin-left: 750px;
+	width: 325px;
+	height: 1px;
+	text-align: center;
+	padding: 10px;
+	list-style: none;
+}
+
+.six li {
+	margin-top: 20px;
+	margin-right: auto;
+	margin-bottom: 20px;
+	margin-left: 835px;
+	width: 150px;
+	height: 25px; 
+	text-align: center;
+	padding: 10px;
+}
+
+.seven li {
+	margin-top: 20px;
+	margin-right: auto;
+	margin-bottom: 20px;
+	margin-left: 650px;
+	width: 500px;
+	height: 25px; 
+	text-align: center;
+	padding: 10px;
+}
